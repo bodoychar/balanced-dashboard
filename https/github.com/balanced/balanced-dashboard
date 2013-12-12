@@ -1,0 +1,19 @@
+
+app	added time	3 days ago
+static	made more modal views into components	4 days ago
+test	fixed some tests	3 days ago
+.bowerrc	Move bower dirs into project dir to prevent TravisCI intermittent fai…	24 days ago
+.editorconfig	Add editorconfig	3 months ago
+.gitignore	load dev scripts from a config json	22 days ago
+.jsbeautifyrc	Fix configuration	2 months ago
+.jshintrc	empty commit to rerun tests	22 days ago
+.travis.yml	pass apply and invoices tests	22 days ago
+CONTRIBUTING.md	Create CONTRIBUTING.md	7 months ago
+CONTRIBUTORS	Add Kody to contributors file	4 months ago
+Gruntfile.js	use shapeshifter	8 days ago
+LICENSE	fixed templating typo	7 months ago
+README.md	Update README.md	17 days ago
+bower.json	bump version of shapeshifter	4 days ago
+karma.conf.js	fix karma config	8 days ago
+npm-shrinkwrap.json	Update LESS version so imports are automatically imported once	3 months ago
+package.json
